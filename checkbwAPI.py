@@ -96,7 +96,7 @@ class DelectDogCat():
         print("Predicted Label:", pnum)
         return pnum;
 ############################################
-#DelectBWNumber END
+#DelectDogCat END
 #================================
 from flask import Flask
 import os
